@@ -2,4 +2,6 @@
 
 
 # create new next.js project
-'npm install bcrypt mongodb mongoose next-auth'
+1. install node.js first 
+2. `npx create-next-app@latest ./`
+3. `npm install bcrypt mongodb mongoose next-auth`
